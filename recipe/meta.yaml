@@ -1,5 +1,5 @@
 {% set name = "ngff_zarr" %}
-{% set version = "0.32.2" %}
+{% set version = "0.33.0" %}
 
 package:
   name: {{ name }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/n/ngff_zarr/ngff_zarr-{{ version }}.tar.gz
-  sha256: f5a810d8bbd0713f0d76d9e184bd25809eac5ebfb3c68d261ca63d13245d2e21
+  sha256: d540d4fd09568b9346c9fb96aec5437bacae642bc1c4d74e08677051fe5b4d82
 
 
 build:
@@ -49,12 +49,12 @@ test:
 
 about:
   summary: "NGFF Zarr: Multiscale bioimaging data in Zarr format"
-  home:  https://github.com/fideus-labs/ngff-zarr
+  home: https://github.com/fideus-labs/ngff-zarr
   doc_url: https://ngff-zarr.readthedocs.io/
   license: MIT
   license_file: LICENSE.txt
-  
-  
+
+
 
 extra:
   recipe-maintainers:
