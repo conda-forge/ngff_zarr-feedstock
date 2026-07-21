@@ -28,7 +28,7 @@ requirements:
     - numpy >=1.21
     - zarr >=2.13
     - numcodecs >=0.10
-    - dask-core
+    - dask-core >=2026.1.2
     - importlib_resources
     - typing_extensions
     - platformdirs
