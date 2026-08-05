@@ -148,4 +148,5 @@ Feedstock Maintainers
 
 * [@khaled196](https://github.com/khaled196/)
 * [@thewtex](https://github.com/thewtex/)
+* [@vboussot](https://github.com/vboussot/)
 
