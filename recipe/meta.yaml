@@ -1,5 +1,5 @@
 {% set name = "ngff_zarr" %}
-{% set version = "0.40.0" %}
+{% set version = "0.41.0" %}
 
 package:
   name: {{ name }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/n/ngff_zarr/ngff_zarr-{{ version }}.tar.gz
-  sha256: eb37e0fe79bd01f2814b68c32188712d3082daa777019d8f4fb4832357eaa569
+  sha256: 62a529464f63bfd8f96d7a1fc8ec3c7f5b2c084bbf90f59129f93209a985ed50
 
 
 build:
