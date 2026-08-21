@@ -35,7 +35,7 @@ requirements:
     - psutil
     - rich
     - rich-argparse
-    - itkwasm
+    - itkwasm >=1.0b201
     - itkwasm-downsample
 
 test:
