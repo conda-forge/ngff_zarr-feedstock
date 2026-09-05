@@ -1,5 +1,5 @@
 {% set name = "ngff_zarr" %}
-{% set version = "0.43.0" %}
+{% set version = "0.46.0" %}
 
 package:
   name: {{ name }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/n/ngff_zarr/ngff_zarr-{{ version }}.tar.gz
-  sha256: 4dd2b4fa0e822e5a9a82b2a894f3306355000c2c57518e267363d2a58ad8cc4c
+  sha256: 5c9298478aab2944d879342916d32c975f69bd996175ccd08d5330ab488da085
 
 
 build:
